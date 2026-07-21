@@ -42,17 +42,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0043_000.yaml, hash: 'sha256:3ee1a36492db6f2155b504bbba5fee7236d34152f0fcec4f2954073ae017566d'}
+  - {seq: 0, filename: KR6j0043_000.yaml, hash: 'sha256:75ae6a49da67b4cd24e1a7ac910b01690a4cff9e59ba95c171d02a59a6014cf7'}
   - {seq: 1, filename: KR6j0043_001.yaml, hash: 'sha256:8c10ba0cb73e7f109a6f9e64879494e5d604bc7df8587723d57f980362278f16'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0043_000.markers.yaml, hash: 'sha256:217d828992f0895cf486cfd666f944e8d7f02a031ffa1280a3f29ec9b950cba2'}
+  - {seq: 0, role: markers, filename: assets/KR6j0043_000.markers.yaml, hash: 'sha256:cbfd67b57a82d98bfa35c0c5fd34be0fca8d252925eb95460edf18774c2fec91'}
   - {seq: 1, role: markers, filename: assets/KR6j0043_001.markers.yaml, hash: 'sha256:24ddf43e35c30c4bb1011ac555b912fd1838c2bb9313539137e3f8044104a4e6'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0043_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 新得貞元錄大小乘經等序
@@ -70,7 +70,7 @@ table_of_contents:
     摩地法'
   type: juan
   level: 1
-hash: sha256:c92d0a92f19654d92e62987171edd61a1833a71c2b4678c9caf1adb1b90eaa1d
+hash: sha256:73fab8f95bdb5d6a8f0627c34ec1bb1821d9870d94848e23cee17aa52b471c9c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

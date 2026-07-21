@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0043_000-T.yaml, hash: 'sha256:b49033095fb2cd4813124a4dd782105b344767a6b7315119c4b7545dc5c1a7a2'}
+  - {seq: 0, filename: KR6j0043_000-T.yaml, hash: 'sha256:b81f28215245ac80c17a461e4ff00b8fcc01ca8ba6c788a03c796179436a9044'}
   - {seq: 1, filename: KR6j0043_001-T.yaml, hash: 'sha256:b56f4918c01f47d5d198f178f2212680a659793d12e9e280475a3343962b89f0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0043_000-T.markers.yaml, hash: 'sha256:fac8bebe9882f4183f458196a99b39ffcc5ae62cbbdf340c0fabe0093903a80f'}
+  - {seq: 0, role: markers, filename: assets/KR6j0043_000-T.markers.yaml, hash: 'sha256:3a3d37e999cf8ac435a7effb8dcb8d4fb21e075cf6e70180ce014121e7ad8156'}
   - {seq: 1, role: markers, filename: assets/KR6j0043_001-T.markers.yaml, hash: 'sha256:e7f89eae8027a4204a148c32896ceee7f2ab72388aeee8fd87d6d9268c2cda82'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0043_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 新得貞元錄大小乘經等序
@@ -47,4 +47,4 @@ table_of_contents:
     摩地法'
   type: juan
   level: 1
-hash: sha256:a6fc438587c80e9586f660a5d935de73c621331c6fff274131ffedd0a5393156
+hash: sha256:23064e74c1a5189cdc8eac1dc90b59ad9b85e7ecc6556bb426e4f838ce904dcd
